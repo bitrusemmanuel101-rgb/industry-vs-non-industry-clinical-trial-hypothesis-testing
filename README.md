@@ -1,1 +1,1 @@
-# industry-vs-non-industry-clinical-trial-hypothesis-testing
+# industry-vs-non-industry-clinical-trial-hypothesis-testing 
